@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"ebbb4ec1376472fa","type":"text","text":"Задачи [[Тест]]\n## Due today\n```tasks\n```\n","x":-153,"y":-360,"width":413,"height":520}
+		{"id":"ebbb4ec1376472fa","type":"text","text":"Задачи\n## Due today\n```tasks\nnot done\n```\n","x":-153,"y":-360,"width":413,"height":520}
 	],
 	"edges":[]
 }
